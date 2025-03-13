@@ -12,6 +12,12 @@ More details are on this blog: https://www.lbatalha.com/blog/prime-motion-pictur
 $ python get_prime.py [Image path] {image_width} {image_height}            
 ```
 
+python3
+```bash
+$ python python python3/code/convert_into_prime_p3.py [Image path] {image_width} {image_height}            
+```
+
+
 
 ## Examples
 1. pokeball-vectorstock.jpg 
